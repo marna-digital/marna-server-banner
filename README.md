@@ -1,1 +1,1 @@
-# marna-server-banner
+# marna-server-scripts
